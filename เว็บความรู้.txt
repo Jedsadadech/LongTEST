@@ -5,4 +5,5 @@ https://github.com ---> กิตฮัฟ
 https://cpe.ku.ac.th/~paruj/887342/ ----> เว็บ อ.พรุจ
 https://www.codecademy.com/ ---> ฝึกทำ Ruby
 http://th.discovermeteor.com/chapters/github/ ---> การใช้งาน git และ github
+http://devahoy.com/posts/introduction-to-git-and-github/
 
