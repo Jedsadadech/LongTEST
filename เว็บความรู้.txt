@@ -1,0 +1,8 @@
+http://tryruby.org/levels/1/challenges/0 ---->ลองโค้ด Ruby
+http://teerapuch.com/2015/uncategorized/ruby-programmer-best-friend/ ---> ภาษา Ruby
+http://bkk-ruby.blogspot.com/2009/07/ruby-1.html ---> Ruby พื้นฐาน
+https://github.com ---> กิตฮัฟ
+https://cpe.ku.ac.th/~paruj/887342/ ----> เว็บ อ.พรุจ
+https://www.codecademy.com/ ---> ฝึกทำ Ruby
+
+
