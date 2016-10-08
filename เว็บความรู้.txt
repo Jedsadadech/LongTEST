@@ -7,3 +7,4 @@ https://www.codecademy.com/ ---> ฝึกทำ Ruby
 http://th.discovermeteor.com/chapters/github/ ---> การใช้งาน git และ github
 http://devahoy.com/posts/introduction-to-git-and-github/
 http://labs.codecademy.com/BJrB#:workspace ----> Run โค้ด Ruby
+https://github.com/nanotechz9l/Codecademy/tree/master/ruby
